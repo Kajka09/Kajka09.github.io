@@ -1,0 +1,22 @@
+body {
+    background-color:#213b50;
+    color:white;
+}
+
+input, textarea, select, option {
+    background-color:#2b4a64;
+    border: 1px solid #2b4a64;
+    color: white;
+}
+
+input:focus, textarea:focus, option:focus {
+    border-color: white;
+    background-color:#4e708c;
+}
+
+
+
+#przycisk {
+    background-color: lawngreen;
+    color:white;
+}
